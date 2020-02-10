@@ -25,7 +25,7 @@ class String
   
   def sentence? do 
   
-  "HI!".end_with?("!")
+  "HI!".end_with?("!") do 
   => true 
   end
   
