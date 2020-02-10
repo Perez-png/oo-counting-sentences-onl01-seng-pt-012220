@@ -36,7 +36,10 @@ class String
   
   
   def exclamation? do 
-    "Hi,my name is Sophie!"
+    "Hi,my name is Sophie!".exclamation?).to eq(name)
+    => false 
+  end
+
   
   
   
