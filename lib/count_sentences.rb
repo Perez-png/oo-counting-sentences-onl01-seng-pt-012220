@@ -24,8 +24,7 @@ require 'pry'
 class String
   
   def sentence? do 
-  
-  "HI!""Hi, my name is Sophie.".sentence?).to eq(true)
+   "HI!""Hi, my name is Sophie.".sentence?).to eq(true)
   => true 
   
   end
@@ -37,6 +36,7 @@ class String
   
   
   def exclamation? do 
+    
   
   
   
