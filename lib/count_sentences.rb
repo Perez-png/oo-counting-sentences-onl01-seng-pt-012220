@@ -41,9 +41,10 @@ class String
   end
 
   def count_sentences do
-    "This, well, is a sentence. This is too!! And so is this, I think? 
-  
-  
+    "This is a string! It has three sentences.
+  Right?".count_sentences
+    => 3
+  end
 end
   
   
