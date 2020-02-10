@@ -26,15 +26,21 @@ class String
   def sentence? do 
   
   "HI!""Hi, my name is Sophie.".sentence?).to eq(true)
-  =<true 
+  => true 
   
   end
   
   def question? do
     "Whats is your name? "
-  
-  
+  => true
   end
+  
+  
+  
+  
+  
+  
+end
   
   
 
