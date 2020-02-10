@@ -30,7 +30,8 @@ class String
   
   end
   
-  def question? do 
+  def question? do
+    "Whats is your name? "
   
   
   end
