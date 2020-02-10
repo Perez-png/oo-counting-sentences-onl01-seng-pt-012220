@@ -42,7 +42,7 @@ class String
 
   def count_sentences do
     "This is a string! It has three sentences.
-  Right?".count_sentences
+  Right?".count_sentences.to eq 
     => 3
   binding.pry
   end
