@@ -1,6 +1,15 @@
 require 'pry'
 
 class String
+  
+  def count_sentences?
+    
+end
+
+
+require 'pry'
+
+class String
 
   def count_sentences?
     
