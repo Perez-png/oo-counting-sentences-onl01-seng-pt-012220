@@ -31,12 +31,12 @@ class String
   end
   
   def question? do
-    "Whats is your name? "
+    "Whats is your name? ".question?).to eq(name)
   => true
   end
   
   
-  
+  def exclamation? do 
   
   
   
