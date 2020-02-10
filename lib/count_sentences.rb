@@ -40,7 +40,7 @@ class String
     => false 
   end
 
-  
+  def count_sentences
   
   
 end
