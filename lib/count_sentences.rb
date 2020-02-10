@@ -44,6 +44,7 @@ class String
     "This is a string! It has three sentences.
   Right?".count_sentences
     => 3
+  binding.pry
   end
 end
   
