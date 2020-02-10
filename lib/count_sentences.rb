@@ -23,14 +23,17 @@ require 'pry'
 
 class String
   
-  def sentence? 
-  end
+  def sentence? do 
   
   "HI!".end_with?("!")
   => true 
   end
   
-  def question?
-end
+  def question? do 
+  
+  
+  end
+  
+  
 
   
