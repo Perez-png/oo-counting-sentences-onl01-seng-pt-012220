@@ -4,8 +4,22 @@ class String
   
   def count_sentences?
     
-end
-
+  end
+  
+  def question?
+    
+  end
+  
+  def exclamation?
+    
+  end
+  
+  def count_sentences?
+    
+  end
+  
+  
+  
 
 require 'pry'
 
