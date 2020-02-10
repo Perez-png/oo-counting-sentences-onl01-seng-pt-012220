@@ -2,7 +2,8 @@ require 'pry'
 
 class String
 
-  def sentence?
+  def "HI!".end_with?("!")
+    => true
     
   end
 
