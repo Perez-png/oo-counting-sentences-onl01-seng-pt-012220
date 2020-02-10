@@ -41,7 +41,7 @@ class String
   end
 
   def count_sentences do
-    
+    "This, well, is a sentence. This is too!! And so is this, I think? 
   
   
 end
