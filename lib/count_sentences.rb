@@ -2,8 +2,7 @@ require 'pry'
 
 class String
 
-  def "HI!".end_with?("!")
-    => true
+  def count_sentences?
     
   end
 
