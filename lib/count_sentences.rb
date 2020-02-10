@@ -25,8 +25,9 @@ class String
   
   def sentence? do 
   
-  "HI!".end_with?("!") do 
-  => true 
+  "HI!""Hi, my name is Sophie.".sentence?).to eq(true)
+  =<true 
+  
   end
   
   def question? do 
